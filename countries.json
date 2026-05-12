@@ -30,6 +30,24 @@
     "flag": "🇦🇴"
   },
   {
+    "name": "Anguilla",
+    "code": "+1-264",
+    "iso": "AI",
+    "flag": "🇦🇮"
+  },
+  {
+    "name": "Antarctica",
+    "code": "+672",
+    "iso": "AQ",
+    "flag": "🇦🇶"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "+1-268",
+    "iso": "AG",
+    "flag": "🇦🇬"
+  },
+  {
     "name": "Argentina",
     "code": "+54",
     "iso": "AR",
@@ -40,6 +58,12 @@
     "code": "+374",
     "iso": "AM",
     "flag": "🇦🇲"
+  },
+  {
+    "name": "Aruba",
+    "code": "+297",
+    "iso": "AW",
+    "flag": "🇦🇼"
   },
   {
     "name": "Australia",
@@ -60,6 +84,12 @@
     "flag": "🇦🇿"
   },
   {
+    "name": "Bahamas",
+    "code": "+1-242",
+    "iso": "BS",
+    "flag": "🇧🇸"
+  },
+  {
     "name": "Bahrain",
     "code": "+973",
     "iso": "BH",
@@ -70,6 +100,12 @@
     "code": "+880",
     "iso": "BD",
     "flag": "🇧🇩"
+  },
+  {
+    "name": "Barbados",
+    "code": "+1-246",
+    "iso": "BB",
+    "flag": "🇧🇧"
   },
   {
     "name": "Belarus",
@@ -96,6 +132,12 @@
     "flag": "🇧🇯"
   },
   {
+    "name": "Bermuda",
+    "code": "+1-441",
+    "iso": "BM",
+    "flag": "🇧🇲"
+  },
+  {
     "name": "Bhutan",
     "code": "+975",
     "iso": "BT",
@@ -120,10 +162,22 @@
     "flag": "🇧🇼"
   },
   {
+    "name": "Bouvet Island",
+    "code": "+47",
+    "iso": "BV",
+    "flag": "🇧🇻"
+  },
+  {
     "name": "Brazil",
     "code": "+55",
     "iso": "BR",
     "flag": "🇧🇷"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "+246",
+    "iso": "IO",
+    "flag": "🇮🇴"
   },
   {
     "name": "Brunei",
@@ -174,6 +228,18 @@
     "flag": "🇨🇻"
   },
   {
+    "name": "Caribbean Netherlands",
+    "code": "+599",
+    "iso": "BQ",
+    "flag": "🇧🇶"
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "+1-345",
+    "iso": "KY",
+    "flag": "🇰🇾"
+  },
+  {
     "name": "Central African Republic",
     "code": "+236",
     "iso": "CF",
@@ -198,6 +264,18 @@
     "flag": "🇨🇳"
   },
   {
+    "name": "Christmas Island",
+    "code": "+61",
+    "iso": "CX",
+    "flag": "🇨🇽"
+  },
+  {
+    "name": "Cocos Islands",
+    "code": "+61",
+    "iso": "CC",
+    "flag": "🇨🇨"
+  },
+  {
     "name": "Colombia",
     "code": "+57",
     "iso": "CO",
@@ -216,6 +294,18 @@
     "flag": "🇨🇬"
   },
   {
+    "name": "Congo (Democratic Republic)",
+    "code": "+243",
+    "iso": "CD",
+    "flag": "🇨🇩"
+  },
+  {
+    "name": "Cook Islands",
+    "code": "+682",
+    "iso": "CK",
+    "flag": "🇨🇰"
+  },
+  {
     "name": "Costa Rica",
     "code": "+506",
     "iso": "CR",
@@ -232,6 +322,12 @@
     "code": "+53",
     "iso": "CU",
     "flag": "🇨🇺"
+  },
+  {
+    "name": "Curaçao",
+    "code": "+599",
+    "iso": "CW",
+    "flag": "🇨🇼"
   },
   {
     "name": "Cyprus",
@@ -256,6 +352,12 @@
     "code": "+253",
     "iso": "DJ",
     "flag": "🇩🇯"
+  },
+  {
+    "name": "Dominica",
+    "code": "+1-767",
+    "iso": "DM",
+    "flag": "🇩🇲"
   },
   {
     "name": "Dominican Republic",
@@ -300,10 +402,28 @@
     "flag": "🇪🇪"
   },
   {
+    "name": "Eswatini",
+    "code": "+268",
+    "iso": "SZ",
+    "flag": "🇸🇿"
+  },
+  {
     "name": "Ethiopia",
     "code": "+251",
     "iso": "ET",
     "flag": "🇪🇹"
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "+500",
+    "iso": "FK",
+    "flag": "🇫🇰"
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "+298",
+    "iso": "FO",
+    "flag": "🇫🇴"
   },
   {
     "name": "Fiji",
@@ -322,6 +442,24 @@
     "code": "+33",
     "iso": "FR",
     "flag": "🇫🇷"
+  },
+  {
+    "name": "French Guiana",
+    "code": "+594",
+    "iso": "GF",
+    "flag": "🇬🇫"
+  },
+  {
+    "name": "French Polynesia",
+    "code": "+689",
+    "iso": "PF",
+    "flag": "🇵🇫"
+  },
+  {
+    "name": "French Southern Territories",
+    "code": "+262",
+    "iso": "TF",
+    "flag": "🇹🇫"
   },
   {
     "name": "Gabon",
@@ -354,16 +492,52 @@
     "flag": "🇬🇭"
   },
   {
+    "name": "Gibraltar",
+    "code": "+350",
+    "iso": "GI",
+    "flag": "🇬🇮"
+  },
+  {
     "name": "Greece",
     "code": "+30",
     "iso": "GR",
     "flag": "🇬🇷"
   },
   {
+    "name": "Greenland",
+    "code": "+299",
+    "iso": "GL",
+    "flag": "🇬🇱"
+  },
+  {
+    "name": "Grenada",
+    "code": "+1-473",
+    "iso": "GD",
+    "flag": "🇬🇩"
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "+590",
+    "iso": "GP",
+    "flag": "🇬🇵"
+  },
+  {
+    "name": "Guam",
+    "code": "+1-671",
+    "iso": "GU",
+    "flag": "🇬🇺"
+  },
+  {
     "name": "Guatemala",
     "code": "+502",
     "iso": "GT",
     "flag": "🇬🇹"
+  },
+  {
+    "name": "Guernsey",
+    "code": "+44",
+    "iso": "GG",
+    "flag": "🇬🇬"
   },
   {
     "name": "Guinea",
@@ -388,6 +562,12 @@
     "code": "+509",
     "iso": "HT",
     "flag": "🇭🇹"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "code": "+672",
+    "iso": "HM",
+    "flag": "🇭🇲"
   },
   {
     "name": "Honduras",
@@ -444,6 +624,12 @@
     "flag": "🇮🇪"
   },
   {
+    "name": "Isle of Man",
+    "code": "+44",
+    "iso": "IM",
+    "flag": "🇮🇲"
+  },
+  {
     "name": "Israel",
     "code": "+972",
     "iso": "IL",
@@ -474,6 +660,12 @@
     "flag": "🇯🇵"
   },
   {
+    "name": "Jersey",
+    "code": "+44",
+    "iso": "JE",
+    "flag": "🇯🇪"
+  },
+  {
     "name": "Jordan",
     "code": "+962",
     "iso": "JO",
@@ -490,6 +682,18 @@
     "code": "+254",
     "iso": "KE",
     "flag": "🇰🇪"
+  },
+  {
+    "name": "Kiribati",
+    "code": "+686",
+    "iso": "KI",
+    "flag": "🇰🇮"
+  },
+  {
+    "name": "Kosovo",
+    "code": "+383",
+    "iso": "XK",
+    "flag": "🇽🇰"
   },
   {
     "name": "Kuwait",
@@ -600,6 +804,18 @@
     "flag": "🇲🇹"
   },
   {
+    "name": "Marshall Islands",
+    "code": "+692",
+    "iso": "MH",
+    "flag": "🇲🇭"
+  },
+  {
+    "name": "Martinique",
+    "code": "+596",
+    "iso": "MQ",
+    "flag": "🇲🇶"
+  },
+  {
     "name": "Mauritania",
     "code": "+222",
     "iso": "MR",
@@ -612,10 +828,22 @@
     "flag": "🇲🇺"
   },
   {
+    "name": "Mayotte",
+    "code": "+262",
+    "iso": "YT",
+    "flag": "🇾🇹"
+  },
+  {
     "name": "Mexico",
     "code": "+52",
     "iso": "MX",
     "flag": "🇲🇽"
+  },
+  {
+    "name": "Micronesia",
+    "code": "+691",
+    "iso": "FM",
+    "flag": "🇫🇲"
   },
   {
     "name": "Moldova",
@@ -642,6 +870,12 @@
     "flag": "🇲🇪"
   },
   {
+    "name": "Montserrat",
+    "code": "+1-664",
+    "iso": "MS",
+    "flag": "🇲🇸"
+  },
+  {
     "name": "Morocco",
     "code": "+212",
     "iso": "MA",
@@ -666,6 +900,12 @@
     "flag": "🇳🇦"
   },
   {
+    "name": "Nauru",
+    "code": "+674",
+    "iso": "NR",
+    "flag": "🇳🇷"
+  },
+  {
     "name": "Nepal",
     "code": "+977",
     "iso": "NP",
@@ -676,6 +916,12 @@
     "code": "+31",
     "iso": "NL",
     "flag": "🇳🇱"
+  },
+  {
+    "name": "New Caledonia",
+    "code": "+687",
+    "iso": "NC",
+    "flag": "🇳🇨"
   },
   {
     "name": "New Zealand",
@@ -702,6 +948,18 @@
     "flag": "🇳🇬"
   },
   {
+    "name": "Niue",
+    "code": "+683",
+    "iso": "NU",
+    "flag": "🇳🇺"
+  },
+  {
+    "name": "Norfolk Island",
+    "code": "+672",
+    "iso": "NF",
+    "flag": "🇳🇫"
+  },
+  {
     "name": "North Korea",
     "code": "+850",
     "iso": "KP",
@@ -712,6 +970,12 @@
     "code": "+389",
     "iso": "MK",
     "flag": "🇲🇰"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "+1-670",
+    "iso": "MP",
+    "flag": "🇲🇵"
   },
   {
     "name": "Norway",
@@ -730,6 +994,12 @@
     "code": "+92",
     "iso": "PK",
     "flag": "🇵🇰"
+  },
+  {
+    "name": "Palau",
+    "code": "+680",
+    "iso": "PW",
+    "flag": "🇵🇼"
   },
   {
     "name": "Palestine",
@@ -768,6 +1038,12 @@
     "flag": "🇵🇭"
   },
   {
+    "name": "Pitcairn Islands",
+    "code": "+64",
+    "iso": "PN",
+    "flag": "🇵🇳"
+  },
+  {
     "name": "Poland",
     "code": "+48",
     "iso": "PL",
@@ -780,10 +1056,22 @@
     "flag": "🇵🇹"
   },
   {
+    "name": "Puerto Rico",
+    "code": "+1-787",
+    "iso": "PR",
+    "flag": "🇵🇷"
+  },
+  {
     "name": "Qatar",
     "code": "+974",
     "iso": "QA",
     "flag": "🇶🇦"
+  },
+  {
+    "name": "Réunion",
+    "code": "+262",
+    "iso": "RE",
+    "flag": "🇷🇪"
   },
   {
     "name": "Romania",
@@ -802,6 +1090,66 @@
     "code": "+250",
     "iso": "RW",
     "flag": "🇷🇼"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "code": "+590",
+    "iso": "BL",
+    "flag": "🇧🇱"
+  },
+  {
+    "name": "Saint Helena",
+    "code": "+290",
+    "iso": "SH",
+    "flag": "🇸🇭"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "+1-869",
+    "iso": "KN",
+    "flag": "🇰🇳"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "+1-758",
+    "iso": "LC",
+    "flag": "🇱🇨"
+  },
+  {
+    "name": "Saint Martin",
+    "code": "+590",
+    "iso": "MF",
+    "flag": "🇲🇫"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "code": "+508",
+    "iso": "PM",
+    "flag": "🇵🇲"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "+1-784",
+    "iso": "VC",
+    "flag": "🇻🇨"
+  },
+  {
+    "name": "Samoa",
+    "code": "+685",
+    "iso": "WS",
+    "flag": "🇼🇸"
+  },
+  {
+    "name": "San Marino",
+    "code": "+378",
+    "iso": "SM",
+    "flag": "🇸🇲"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "code": "+239",
+    "iso": "ST",
+    "flag": "🇸🇹"
   },
   {
     "name": "Saudi Arabia",
@@ -840,6 +1188,12 @@
     "flag": "🇸🇬"
   },
   {
+    "name": "Sint Maarten",
+    "code": "+1-721",
+    "iso": "SX",
+    "flag": "🇸🇽"
+  },
+  {
     "name": "Slovakia",
     "code": "+421",
     "iso": "SK",
@@ -852,6 +1206,12 @@
     "flag": "🇸🇮"
   },
   {
+    "name": "Solomon Islands",
+    "code": "+677",
+    "iso": "SB",
+    "flag": "🇸🇧"
+  },
+  {
     "name": "Somalia",
     "code": "+252",
     "iso": "SO",
@@ -862,6 +1222,12 @@
     "code": "+27",
     "iso": "ZA",
     "flag": "🇿🇦"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "code": "+500",
+    "iso": "GS",
+    "flag": "🇬🇸"
   },
   {
     "name": "South Korea",
@@ -898,6 +1264,12 @@
     "code": "+597",
     "iso": "SR",
     "flag": "🇸🇷"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "+47",
+    "iso": "SJ",
+    "flag": "🇸🇯"
   },
   {
     "name": "Sweden",
@@ -954,6 +1326,18 @@
     "flag": "🇹🇬"
   },
   {
+    "name": "Tokelau",
+    "code": "+690",
+    "iso": "TK",
+    "flag": "🇹🇰"
+  },
+  {
+    "name": "Tonga",
+    "code": "+676",
+    "iso": "TO",
+    "flag": "🇹🇴"
+  },
+  {
     "name": "Trinidad and Tobago",
     "code": "+1-868",
     "iso": "TT",
@@ -976,6 +1360,18 @@
     "code": "+993",
     "iso": "TM",
     "flag": "🇹🇲"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "code": "+1-649",
+    "iso": "TC",
+    "flag": "🇹🇨"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "+688",
+    "iso": "TV",
+    "flag": "🇹🇻"
   },
   {
     "name": "Uganda",
@@ -1008,6 +1404,12 @@
     "flag": "🇺🇸"
   },
   {
+    "name": "United States Virgin Islands",
+    "code": "+1-340",
+    "iso": "VI",
+    "flag": "🇻🇮"
+  },
+  {
     "name": "Uruguay",
     "code": "+598",
     "iso": "UY",
@@ -1020,6 +1422,18 @@
     "flag": "🇺🇿"
   },
   {
+    "name": "Vanuatu",
+    "code": "+678",
+    "iso": "VU",
+    "flag": "🇻🇺"
+  },
+  {
+    "name": "Vatican City",
+    "code": "+379",
+    "iso": "VA",
+    "flag": "🇻🇦"
+  },
+  {
     "name": "Venezuela",
     "code": "+58",
     "iso": "VE",
@@ -1030,6 +1444,18 @@
     "code": "+84",
     "iso": "VN",
     "flag": "🇻🇳"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "code": "+681",
+    "iso": "WF",
+    "flag": "🇼🇫"
+  },
+  {
+    "name": "Western Sahara",
+    "code": "+212",
+    "iso": "EH",
+    "flag": "🇪🇭"
   },
   {
     "name": "Yemen",
